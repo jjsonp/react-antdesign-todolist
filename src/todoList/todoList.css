@@ -1,0 +1,9 @@
+#root {
+    margin: 0 20%;
+}
+
+.insert {
+    position: absolute;
+    right: 26px;
+    top: 23px;
+}
